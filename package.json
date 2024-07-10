@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/Animalfox/JS-Multiples-of-3-or-5/issues"
   },
-  "homepage": "https://github.com/Animalfox/JS-Multiples-of-3-or-5#readme"
+  "homepage": "https://github.com/Animalfox/JS-Multiples-of-3-or-5#readme",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.6.0"
+  }
 }
